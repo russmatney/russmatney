@@ -1,6 +1,4 @@
-#+title: russmatney
-
-Hi there! I'm Russ.
+#+title: Hi there! I'm Russ.
 
 I build open source games in Godot and write tools with Clojure (Babashka).
 

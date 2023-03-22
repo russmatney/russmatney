@@ -8,7 +8,8 @@ I stream while developing to expose the process and workflow - follow me to get
 notified when I'm live: [[https://twitch.tv/russmatney][twitch.tv/russmatney]]
 
 I'm working on games full-time, and am trying to build up support via Github
-sponsors and [[https://patreon.com/russmatney][Patreon]].
+sponsors and [[https://patreon.com/russmatney][Patreon]]. My first goal is to reach the per-month amount that I give
+to other projects :D
 
 * Projects
 ** [[https://github.com/russmatney/dino][russmatney/dino]]

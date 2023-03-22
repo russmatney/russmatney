@@ -1,0 +1,41 @@
+#+title: russmatney
+
+Hi there! I'm Russ.
+
+I build open source games in Godot and write tools with Clojure (Babashka).
+
+You can play my games on itch.io: [[https://russmatney.itch.io][russmatney.itch.io]]
+
+I stream while developing to expose the process and workflow - follow me to get
+notified when I'm live: [[https://twitch.tv/russmatney][twitch.tv/russmatney]]
+
+I'm working on games full-time, and am trying to build up support via Github
+sponsors and [[https://patreon.com/russmatney][Patreon]].
+
+* Projects
+** [[https://github.com/russmatney/dino][russmatney/dino]]
+A Godot monorepo and sandbox, where I develop most of my games and addons.
+
+Some addons include:
+*** Addons
+**** Camera
+A camera that recenters based on arbitrary Points of Focus, Interest, and Anchorage.
+
+Includes hitstop, slow-mo, and noise-based screenshake.
+**** Hotel
+An in-memory game state database for handling data in the node lifecycle.
+
+Includes a helpful query function for finding nodes by zone, room, group, or function.
+*** Games
+**** HatBot: [[https://russmatney.itch.io/mvania19][HatBot]]
+My first metroidvania, built for the Metroidvania Month Jam 19.
+** [[https://github.com/russmatney/clawe][russmatney/clawe]]
+A Clojure and Babashka based window-management tool, for bringing repl-driven
+development to your development environment, on Linux and OSX.
+** [[https://github.com/russmatney/org-crud][russmatney/org-crud]]
+A clojure (and babashka) interface for interacting with org files.
+* Tools
+** Emacs
+** Godot
+** Aseprite
+** Babashka

@@ -70,25 +70,24 @@ Sponsorships](https://danger.russmatney.com/note/open_source_sponsoring.html)
 
 ## [Dino](https://github.com/russmatney/dino)
 
-A Godot monorepo and sandbox, where I develop my games and addons.
+A Godot monorepo and sandbox, where I develop games and addons.
 
-Dino games are available on [itch.io](https://russmatney.itch.io).
+Addons:
 
-#### Addon: Juicy Camera
+- :movie_camera: Camera. Centering, zooming, hitstop, slow-mo, and noise-based screenshake
+- :floppy_disk: Hotel DB. In-memory game-state management supporting entity lifecycles
+- :fairy: Navi, for scene navigation and menu support
+- :joystick: Trolley, controller support
+- :lizard: Reptile - helpers for managing tilesets
+- :bee: Beehive - AI patterns (Finite State Machine, Behavior Trees, GOAP)
 
-A camera that recenters based on arbitrary Points of Focus, Interest, and Anchorage.
+Games:
 
-Includes hitstop, slow-mo, and noise-based screenshake.
+There are more than these, but for now I'm only directly linking the more
+'finished' ones. You can play all the WIPs at [russmatney.itch.io](https://russmatney.itch.io).
 
-#### Addon: Hotel DB
+- :video_game: [HatBot](https://russmatney.itch.io/mvania19). My first metroidvania, built for the Metroidvania Month Jam 19.
 
-An in-memory game state database for handling data in the node lifecycle.
-
-Includes a helpful query function for finding nodes by zone, room, group, or function.
-
-#### Game: [HatBot](https://russmatney.itch.io/mvania19)
-
-My first metroidvania, built for the Metroidvania Month Jam 19.
 
 ---
 
@@ -96,6 +95,8 @@ My first metroidvania, built for the Metroidvania Month Jam 19.
 
 A Clojure and Babashka based window-management tool, for bringing repl-driven
 development to your development environment, on Linux and OSX.
+
+
 
 ## [Org-CRUD](https://github.com/russmatney/org-crud)
 

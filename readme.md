@@ -59,4 +59,15 @@ Come watch my [streams on twitch](https://twitch.tv/russmatney) to see these in 
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
+
+```text
+From: 20 October 2022 - To: 20 April 2023
+
+GDScript     330 hrs 48 mins ███████████░░░░░░░░░░░░░░   43.73 %
+Org          216 hrs 10 mins ███████░░░░░░░░░░░░░░░░░░   28.58 %
+Clojure      136 hrs 59 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
+Git          33 hrs 54 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Other        18 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+```
+
 <!--END_SECTION:waka-->

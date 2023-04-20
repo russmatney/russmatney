@@ -20,12 +20,10 @@
 </div>
 
 <h1>
-  Hi there!
+  Hi there! I'm Russ!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-
----
 
 ### :technologist: About Me:
 
@@ -57,8 +55,6 @@ Sponsorships](https://danger.russmatney.com/note/open_source_sponsoring.html)
 
 ---
 
-# Projects
-
 <div align="center">
 <a href="https://github.com/russmatney/dino">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=russmatney&repo=dino&theme=transparent" alt="Dino Repo Card" />
@@ -89,8 +85,6 @@ There are more than these, but for now I'm only directly linking the more
 - :video_game: [HatBot](https://russmatney.itch.io/mvania19). My first metroidvania, built for the Metroidvania Month Jam 19.
 
 
----
-
 ## [Clawe](https://github.com/russmatney/clawe)
 
 A Clojure and Babashka based window-management tool, for bringing repl-driven
@@ -115,12 +109,12 @@ A clojure (and babashka) interface for interacting with org files.
 Come watch my [streams on twitch](https://twitch.tv/russmatney) to see these in action!
 
 - Emacs (via Doom)
+- Org-Roam
 - Godot (4) and GDscript
 - Aseprite (pixel art)
 - Clojure (as much as possible)
 - Babashka (for all things scripting)
 
----
 
 # Stats
 

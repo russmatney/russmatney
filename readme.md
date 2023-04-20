@@ -58,8 +58,10 @@ Sponsorships](https://danger.russmatney.com/note/open_source_sponsoring.html)
 ## [Dino](https://github.com/russmatney/dino)
 
 <a href="https://github.com/russmatney/dino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=russmatney&repo=dino" alt="Dino Repo Card" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=russmatney&repo=dino&theme=transparent" alt="Dino Repo Card" />
 </a>
+<br/>
+<br/>
 
 A Godot monorepo and sandbox, where I develop games and addons.
 
@@ -85,6 +87,8 @@ There are more than these, but for now I'm only directly linking the more
 <a href="https://github.com/russmatney/clawe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=russmatney&repo=clawe&theme=transparent" alt="Clawe Repo Card" />
 </a>
+<br/>
+<br/>
 
 A Clojure and Babashka based window-management tool, for bringing repl-driven
 development to your development environment, on Linux and OSX.
@@ -98,6 +102,8 @@ development to your development environment, on Linux and OSX.
   src="https://github-readme-stats.vercel.app/api/pin/?username=russmatney&repo=org-crud&theme=transparent"
   alt="Org Crud Repo Card" />
 </a>
+<br/>
+<br/>
 
 A clojure (and babashka) interface for interacting with org files.
 

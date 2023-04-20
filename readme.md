@@ -25,13 +25,6 @@
 </h1>
 </div>
 
-<a href="https://github.com/russmatney/dino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=russmatney&repo=dino&theme=transparent" alt="Dino Repo Card" />
-</a>
-<a href="https://github.com/russmatney/clawe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=russmatney&repo=clawe&theme=transparent" alt="Clawe Repo Card" />
-</a>
-
 ---
 
 ### :technologist: About Me:
@@ -64,49 +57,16 @@ Sponsorships](https://danger.russmatney.com/note/open_source_sponsoring.html)
 
 ---
 
-# Dev Tools and Stats
+# Projects
 
-Come watch my [streams on twitch](https://twitch.tv/russmatney) to see these in action!
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/emacs/emacs-original.svg" title="Emacs" alt="Emacs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/develop/icons/clojure/clojure-original.svg" title="Clojure" alt="Clojure" width="40" height="40"/>&nbsp;
+<div align="center">
+<a href="https://github.com/russmatney/dino">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=russmatney&repo=dino&theme=transparent" alt="Dino Repo Card" />
+</a>
+<a href="https://github.com/russmatney/clawe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=russmatney&repo=clawe&theme=transparent" alt="Clawe Repo Card" />
+</a>
 </div>
-
-- Emacs (via Doom)
-- Godot (4) and GDscript
-- Aseprite (pixel art)
-- Clojure (as much as possible)
-- Babashka (for all things scripting)
-
-## Wakatime Stats
-
-<!--START_SECTION:waka-->
-
-```text
-From: 20 October 2022 - To: 20 April 2023
-
-GDScript     330 hrs 48 mins ███████████░░░░░░░░░░░░░░   43.73 %
-Org          216 hrs 10 mins ███████░░░░░░░░░░░░░░░░░░   28.58 %
-Clojure      136 hrs 59 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-Git          33 hrs 54 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Other        18 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-```
-
-<!--END_SECTION:waka-->
-
-[![russmatney wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=russmatney&custom_title=Last%207%20Days)]()
-
-## Github Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=russmatney&theme=dark&background=000000)]()
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=russmatney&theme=transparent&hide=prs,issues&show_icons=true)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russmatney&layout=compact&theme=transparent&hide=javascript,css&langs_count=7&hide_title=true)]()
-
----
 
 ## [Dino](https://github.com/russmatney/dino)
 
@@ -140,3 +100,49 @@ development to your development environment, on Linux and OSX.
 ## [Org-CRUD](https://github.com/russmatney/org-crud)
 
 A clojure (and babashka) interface for interacting with org files.
+
+---
+
+# Dev Tools
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/clojure/clojure-original.svg" title="Clojure" alt="Clojure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/emacs/emacs-original.svg" title="Emacs" alt="Emacs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
+</div>
+
+Come watch my [streams on twitch](https://twitch.tv/russmatney) to see these in action!
+
+- Emacs (via Doom)
+- Godot (4) and GDscript
+- Aseprite (pixel art)
+- Clojure (as much as possible)
+- Babashka (for all things scripting)
+
+---
+
+# Stats
+
+Last 6 months:
+
+<!--START_SECTION:waka-->
+
+```text
+From: 20 October 2022 - To: 20 April 2023
+
+GDScript     330 hrs 48 mins ███████████░░░░░░░░░░░░░░   43.73 %
+Org          216 hrs 10 mins ███████░░░░░░░░░░░░░░░░░░   28.58 %
+Clojure      136 hrs 59 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
+Git          33 hrs 54 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Other        18 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+```
+
+<!--END_SECTION:waka-->
+
+[![russmatney wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=russmatney&custom_title=Last%207%20Days&theme=transparent)]()
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=russmatney&theme=transparent&background=000000)]()
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=russmatney&theme=transparent&hide=prs,issues&show_icons=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=russmatney&layout=compact&theme=transparent&hide=javascript,css&langs_count=7&hide_title=true)]()

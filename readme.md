@@ -36,7 +36,7 @@
 while developing to share the process and workflow
 
 - :seedling: My blog is a mind-garden:
-  [danger.russmatney.com](https://danger.russmatney.com/). An org-roam-managed
+  [russmatney.com](https://russmatney.com/). An org-roam-managed
   second brain, exported via code in Clawe.
 
 I'm working on open-source games and tools full-time! I want to build up enough support to
@@ -50,8 +50,8 @@ You can support me via:
 My first goal is to earn enough per-month to cover the amount that I give to other projects :D
 
 You can see the folks I support on my blog: [Patrons I
-support](https://danger.russmatney.com/note/patreons_i_support.html), [Github
-Sponsorships](https://danger.russmatney.com/note/open_source_sponsoring.html)
+support](https://russmatney.com/note/patreons_i_support.html), [Github
+Sponsorships](https://russmatney.com/note/open_source_sponsoring.html)
 
 ---
 
@@ -145,7 +145,7 @@ Other         18 hrs 17 mins  ▓░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![russmatney wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=russmatney&custom_title=Last%207%20Days&theme=transparent)]()
+<!-- [![russmatney wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=russmatney&custom_title=Last%207%20Days&theme=transparent)]() -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=russmatney&theme=transparent&background=000000)]()
 

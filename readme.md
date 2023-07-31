@@ -134,10 +134,10 @@ Last 6 months:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2023 - To: 28 July 2023
+From: 28 January 2023 - To: 29 July 2023
 
-GDScript           322 hrs 38 mins █████████▓░░░░░░░░░░░░░░░   38.15 %
-Org                217 hrs 56 mins ██████▒░░░░░░░░░░░░░░░░░░   25.77 %
+GDScript           322 hrs 38 mins █████████▓░░░░░░░░░░░░░░░   38.14 %
+Org                218 hrs 7 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
 Clojure            191 hrs 39 mins █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
 Git                48 hrs 21 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
 Other              20 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %

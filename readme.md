@@ -134,14 +134,14 @@ Last 6 months:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2023 - To: 11 August 2023
+From: 11 February 2023 - To: 12 August 2023
 
-GDScript           293 hrs 22 mins █████████▒░░░░░░░░░░░░░░░   36.86 %
-Org                206 hrs 40 mins ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
-Clojure            186 hrs 55 mins ██████░░░░░░░░░░░░░░░░░░░   23.48 %
-Git                45 hrs 59 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-Other              19 hrs 32 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Emacs Lisp         12 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+GDScript           290 hrs 14 mins █████████░░░░░░░░░░░░░░░░   36.46 %
+Org                209 hrs 56 mins ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
+Clojure            188 hrs 21 mins ██████░░░░░░░░░░░░░░░░░░░   23.66 %
+Git                45 hrs 35 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Other              18 hrs 53 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Emacs Lisp         12 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 YAML               10 hrs 3 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 

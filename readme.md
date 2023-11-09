@@ -32,7 +32,9 @@
 - I make open-source games :joystick: in Godot and tools :hammer_and_wrench: in Clojure (Babashka)
 
 - :video_game: My games are available on itch.io:
-[russmatney.itch.io](https://russmatney.itch.io) and on github (repo links below)
+[russmatney.itch.io](https://russmatney.itch.io) and on
+[steam](https://store.steampowered.com/app/2589550/Dino/) (and they are
+open-source! see the repo links below)
 
 - :movie_camera: I stream on [twitch.tv/russmatney](https://twitch.tv/russmatney)
 while developing to share the process and workflow
@@ -41,7 +43,7 @@ while developing to share the process and workflow
   [russmatney.com](https://russmatney.com/). An org-roam-managed
   second brain, exported via code in Clawe.
 
-I'm working on open-source games and tools full-time! I want to build up enough support to
+I'm working on open-source games and tools full-time - I want to build up enough support to
 do this indefinitely, and keep the source open to everyone.
 
 You can support me via:
@@ -65,24 +67,12 @@ Sponsorships](https://russmatney.com/note/open_source_sponsoring.html)
 <br/>
 <br/>
 
-A Godot monorepo and sandbox, where I develop games and addons.
+I'm driving head first towards a full Dino Steam release - [wishlist Dino on steam](https://store.steampowered.com/app/2589550/Dino/)!
 
-Addons:
+Dino started as a Godot monorepo and sandbox for developing games and addons,
+but it is transforming into a cross-genre roguelite of sorts.
 
-- :movie_camera: Camera. Centering, zooming, hitstop, slow-mo, and noise-based screenshake
-- :floppy_disk: Hotel DB. In-memory game-state management supporting entity lifecycles
-- :fairy: Navi, for scene navigation and menu support
-- :joystick: Trolley, controller support
-- :lizard: Reptile - helpers for managing tilesets
-- :bee: Beehive - AI patterns (Finite State Machine, Behavior Trees, GOAP)
-
-Games:
-
-There are more than these, but for now I'm only directly linking the more
-'finished' ones. You can play all the WIPs at [russmatney.itch.io](https://russmatney.itch.io).
-
-- :video_game: [HatBot](https://russmatney.itch.io/mvania19). My first metroidvania, built for the Metroidvania Month Jam 19.
-
+You can play the latest here: [russmatney.itch.io/dino](https://russmatney.itch.io/dino).
 
 ## [Clawe](https://github.com/russmatney/clawe)
 
@@ -94,8 +84,6 @@ There are more than these, but for now I'm only directly linking the more
 
 A Clojure and Babashka based window-management tool, for bringing repl-driven
 development to your development environment, on Linux and OSX.
-
-
 
 ## [Org-CRUD](https://github.com/russmatney/org-crud)
 

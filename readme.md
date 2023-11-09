@@ -14,8 +14,10 @@
   <a href="https://www.patreon.com/russmatney">
     <img src="https://img.shields.io/badge/Patreon-red?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon Badge"/>
   </a>
-  <a href="https://twitter.com/russmatney">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://store.steampowered.com/app/2589550/Dino/">
+    <img
+    src="https://img.shields.io/badge/Dino%20-%20?style=for-the-badge&logo=steam&label=steam"
+    alt="Dino on Steam" >
   </a>
 </div>
 

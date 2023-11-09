@@ -16,7 +16,7 @@
   </a>
   <a href="https://store.steampowered.com/app/2589550/Dino/">
     <img
-    src="https://img.shields.io/badge/Dino%20-%20?style=for-the-badge&logo=steam&label=steam"
+    src="https://img.shields.io/badge/add%20to%20wishlist%20-%20?style=for-the-badge&logo=steam&label=steam&color=55abef"
     alt="Dino on Steam" >
   </a>
   <a href="https://discord.gg/xZHWtGfAvF">

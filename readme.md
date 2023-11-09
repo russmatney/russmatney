@@ -19,6 +19,9 @@
     src="https://img.shields.io/badge/Dino%20-%20?style=for-the-badge&logo=steam&label=steam"
     alt="Dino on Steam" >
   </a>
+  <a href="https://discord.gg/xZHWtGfAvF">
+    <img alt="Discord" src="https://img.shields.io/discord/758750490015563776?style=for-the-badge&logo=discord&logoColor=fff&label=discord" />
+  </a>
 </div>
 
 <h1>

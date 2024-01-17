@@ -40,21 +40,19 @@
 
 ### :technologist: About Me:
 
-- I make open-source games :joystick: in Godot and tools :hammer_and_wrench: in Clojure (Babashka)
+- I make games :joystick: in Godot and tools :hammer_and_wrench: in Clojure (Babashka)
 
-- :video_game: My games are available on itch.io:
-[russmatney.itch.io](https://russmatney.itch.io) and on
-[steam](https://store.steampowered.com/app/2589550/Dino/) (and they are
-open-source! see the repo links below)
+- :video_game: I'm launching two games in the next few months:
+  - Dot Hop ([steam](https://store.steampowered.com/app/2779710/Dot_Hop/), [github](https://github.com/russmatney/dino)) is a grid-based puzzle game - simple but challenging, and hopefully not too hard.
+  - Dino ([steam](https://store.steampowered.com/app/2589550/Dino/), [github](https://github.com/russmatney/dino)) is a mashup of my jam entries from last year - platformers, some top-down, some beat em up, some overcooked?! I'm molding it into.... something... and launching in Q1!
 
-- :movie_camera: I stream on [twitch.tv/russmatney](https://twitch.tv/russmatney)
-while developing to share the process and workflow
+- My jam games are available on itch.io: [russmatney.itch.io](https://russmatney.itch.io)
 
-- :seedling: My blog is a mind-garden:
-  [russmatney.com](https://russmatney.com/). An org-roam-managed
-  second brain, exported via code in Clawe.
+- :movie_camera: I share weekly devlogs on [Youtube](https://www.youtube.com/@russmatney), and I stream live-coding on [twitch.tv/russmatney](https://twitch.tv/russmatney)
 
-I'm working on open-source games and tools full-time - I want to build up enough support to
+- :seedling: My blog is a meandering org-roam exported mind-garden: [russmatney.com](https://russmatney.com/)
+
+I'm working on games and tools full-time - I want to build up enough support to
 do this indefinitely, and keep the source open to everyone.
 
 You can support me via:
@@ -62,13 +60,26 @@ You can support me via:
 - [Github sponsors](https://github.com/sponsors/russmatney)
 - [Patreon](https://patreon.com/russmatney)
 
-My first goal is to earn enough per-month to cover the amount that I give to other projects :D
-
-You can see the folks I support on my blog: [Patrons I
-support](https://russmatney.com/note/patreons_i_support.html), [Github
-Sponsorships](https://russmatney.com/note/open_source_sponsoring.html)
-
 ---
+
+## [Dot Hop](https://github.com/russmatney/dothop)
+
+<a href="https://github.com/russmatney/dothop">
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=russmatney&repo=dothop&theme=transparent"
+  alt="Dot Hop Repo Card" />
+</a>
+<br/>
+<br/>
+
+Dot Hop is a grid-based puzzle game. It started as a PuzzleScript jam game, but
+I've reimplemented it in Dino to add several themes, more puzzles, and
+friendlier UX.
+
+[Wishlist Dot Hop on steam](https://store.steampowered.com/app/2779710/Dot_Hop/)!
+
+I'm focusing on Dot Hop lately to get my first Steam launch done with a
+reasonably scoped game. Wish me luck!
 
 ## [Dino](https://github.com/russmatney/dino)
 
@@ -78,12 +89,10 @@ Sponsorships](https://russmatney.com/note/open_source_sponsoring.html)
 <br/>
 <br/>
 
-I'm driving head first towards a full Dino Steam release - [wishlist Dino on steam](https://store.steampowered.com/app/2589550/Dino/)!
+I'm driving towards a full Dino Steam release - [wishlist Dino on steam](https://store.steampowered.com/app/2589550/Dino/)!
 
-Dino started as a Godot monorepo and sandbox for developing games and addons,
-but it is transforming into a cross-genre roguelite of sorts.
-
-You can play the latest here: [russmatney.itch.io/dino](https://russmatney.itch.io/dino).
+Dino started as a Godot monorepo and sandbox for game jams and writing my own addons,
+but it is transforming into a genre-mashup of sorts.
 
 ## [Clawe](https://github.com/russmatney/clawe)
 

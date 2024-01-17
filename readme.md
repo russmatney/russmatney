@@ -8,15 +8,23 @@
   <a href="https://mastodon.gamedev.place/@russmatney">
     <img src="https://img.shields.io/badge/Mastodon-teal?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
+  <a href="https://www.youtube.com/@russmatney">
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
   <a href="https://www.twitch.tv/russmatney">
     <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>
   <a href="https://www.patreon.com/russmatney">
     <img src="https://img.shields.io/badge/Patreon-red?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon Badge"/>
   </a>
+  <a href="https://store.steampowered.com/app/2779710/Dot_Hop/">
+    <img
+    alt="Dot Hop on Steam"
+    src="https://img.shields.io/badge/add%20to%20wishlist%20-%20?style=for-the-badge&logo=steam&label=Dot%20Hop&color=55abef" />
+  </a>
   <a href="https://store.steampowered.com/app/2589550/Dino/">
     <img
-    src="https://img.shields.io/badge/add%20to%20wishlist%20-%20?style=for-the-badge&logo=steam&label=steam&color=55abef"
+    src="https://img.shields.io/badge/add%20to%20wishlist%20-%20?style=for-the-badge&logo=steam&label=Dino&color=55abef"
     alt="Dino on Steam" >
   </a>
   <a href="https://discord.gg/xZHWtGfAvF">

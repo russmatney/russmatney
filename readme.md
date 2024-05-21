@@ -144,7 +144,7 @@ Last 6 months:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2023 - To: 18 May 2024
+From: 19 November 2023 - To: 19 May 2024
 
 GDScript      240 hrs 48 mins ████████░░░░░░░░░░░░░░░░░   32.33 %
 Org           215 hrs 46 mins ███████▒░░░░░░░░░░░░░░░░░   28.97 %

@@ -40,15 +40,17 @@
 
 ### :technologist: About Me:
 
-- I make games :joystick: in Godot and tools :hammer_and_wrench: in Clojure (Babashka)
+- I make games :joystick: in Godot and Unity and tools :hammer_and_wrench: in Clojure (Babashka)
 
-- :video_game: I'm launching two games in the next few months:
+- I wrote a pretty-printer for GDScript ([log.gd repo](https://github.com/russmatney/log.gd), also [in the asset library](https://godotengine.org/asset-library/asset/2696)) that I now can't live without.
+
+- :video_game: I've launched two games in 2024:
   - Dot Hop ([steam](https://store.steampowered.com/app/2779710/Dot_Hop/), [github](https://github.com/russmatney/dino)) is a grid-based puzzle game - simple but challenging, and hopefully not too hard.
   - Dino ([steam](https://store.steampowered.com/app/2589550/Dino/), [github](https://github.com/russmatney/dino)) is a mashup of my jam entries from last year - platformers, some top-down, some beat em up, some overcooked?! I'm molding it into.... something... and launching in Q1!
 
 - My jam games are available on itch.io: [russmatney.itch.io](https://russmatney.itch.io)
 
-- :movie_camera: I share weekly devlogs on [Youtube](https://www.youtube.com/@russmatney), and I stream live-coding on [twitch.tv/russmatney](https://twitch.tv/russmatney)
+- :movie_camera: I share devlogs on [Youtube](https://www.youtube.com/@russmatney), and I stream live-coding on [twitch.tv/russmatney](https://twitch.tv/russmatney)
 
 - :seedling: My blog is a meandering org-roam exported mind-garden: [russmatney.com](https://russmatney.com/)
 
@@ -59,8 +61,25 @@ You can support me via:
 
 - [Github sponsors](https://github.com/sponsors/russmatney)
 - [Patreon](https://patreon.com/russmatney)
+- [Kofi](https://ko-fi.com/russmatney)
 
 ---
+
+## [Log.gd](https://github.com/russmatney/log.gd)
+
+<a href="https://github.com/russmatney/log.gd">
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=russmatney&repo=log.gd&theme=transparent"
+  alt="Log.gd Repo Card" />
+</a>
+<br/>
+<br/>
+
+Log.gd is a pretty-printer for GDScript.
+
+It's a drop-in replacement for `print(...)`, and it adds sensible spacing,
+indentation, color, and line-numbers to your logs. For me it helps a ton with
+eye-fatigue and debugging.
 
 ## [Dot Hop](https://github.com/russmatney/dothop)
 

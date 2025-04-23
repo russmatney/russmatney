@@ -163,7 +163,7 @@ Last 6 months:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2024 - To: 20 April 2025
+From: 21 October 2024 - To: 21 April 2025
 
 Org             201 hrs 18 mins ████████▒░░░░░░░░░░░░░░░░   33.94 %
 Other           95 hrs 28 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.10 %

@@ -163,11 +163,11 @@ Last 6 months:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 05 July 2025
+From: 05 January 2025 - To: 06 July 2025
 
-Org              211 hrs 21 mins ██████████▒░░░░░░░░░░░░░░   40.75 %
-Other            131 hrs 4 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.27 %
-C#               39 hrs 4 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+Org              211 hrs 9 mins  ██████████▒░░░░░░░░░░░░░░   40.73 %
+Other            131 hrs 5 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.28 %
+C#               39 hrs 4 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
 GDScript         30 hrs 15 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
 Markdown         29 hrs 13 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 GDScript3        24 hrs 53 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %

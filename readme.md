@@ -40,19 +40,41 @@
 
 ### :technologist: About Me:
 
-- I make games :joystick: in Godot and Unity and tools :hammer_and_wrench: in Clojure (Babashka)
+- I make games :joystick: in Godot and tools :hammer_and_wrench: in Clojure (Babashka)
 
-- I wrote a pretty-printer for GDScript ([log.gd repo](https://github.com/russmatney/log.gd), also [in the asset library](https://godotengine.org/asset-library/asset/2696)) that I now can't live without.
+- I maintain a pretty-printer for GDScript called `Log.gd`.
+  - [repo](https://github.com/russmatney/log.gd)
+  - [docs](https://russmatney.github.io/log.gd/#/)
+  - [in the asset library](https://godotengine.org/asset-library/asset/2696)
 
-- :video_game: I've launched two games in 2024:
-  - Dot Hop ([steam](https://store.steampowered.com/app/2779710/Dot_Hop/), [github](https://github.com/russmatney/dino)) is a grid-based puzzle game - simple but challenging, and hopefully not too hard.
-  - Dino ([steam](https://store.steampowered.com/app/2589550/Dino/), [github](https://github.com/russmatney/dino)) is a mashup of my jam entries from last year - platformers, some top-down, some beat em up, some overcooked?! I'm molding it into.... something... and launching in Q1!
+- :video_game: I launched two solo-dev games in 2024:
+
+  - Dot Hop is a grid-based puzzle game - simple but challenging, and hopefully
+    not too hard. Latest release:
+    [v1.2](https://store.steampowered.com/news/app/2779710/view/539986853961400427)!
+    everywhere, and in beta on iOS and Android!
+
+    - [steam](https://store.steampowered.com/app/2779710/Dot_Hop/)
+    - [github](https://github.com/russmatney/dothop)
+    - [itch](https://russmatney.itch.io/dot-hop)
+    - [all-the-places](https://russmatney.github.io/dothop/#/all-the-places)
+
+  - Dino ([steam](https://store.steampowered.com/app/2589550/Dino/),
+    [github](https://github.com/russmatney/dino)) is a mashup of jam entries
+    from 2023 - platformers, some top-down, some beat em up, some
+    overcooked-ish?! It's over-engineered into a... something.... More to come
+    at some point!
 
 - My jam games are available on itch.io: [russmatney.itch.io](https://russmatney.itch.io)
 
 - :movie_camera: I share devlogs on [Youtube](https://www.youtube.com/@russmatney), and I stream live-coding on [twitch.tv/russmatney](https://twitch.tv/russmatney)
 
-- :seedling: My blog is a meandering org-roam exported mind-garden: [russmatney.com](https://russmatney.com/)
+- :seedling: My blog is devlogs, a portfolio and all my other writings from over the years:
+  [russmatney.com](https://russmatney.com/)
+
+- Here's [my carrd](https://russmatney.carrd.co).
+
+- My games are all done under my solo-dev studio, [Danger Russ Games](https://dangerrussgames.com)
 
 I'm working on games and tools full-time - I want to build up enough support to
 do this indefinitely, and keep the source open to everyone.
@@ -81,6 +103,10 @@ It's a drop-in replacement for `print(...)`, and it adds sensible spacing,
 indentation, color, and line-numbers to your logs. For me it helps a ton with
 eye-fatigue and debugging.
 
+- [Docs](https://russmatney.github.io/log.gd/#/)
+- [Repo](https://github.com/russmatney/log.gd)
+- [Asset Library](https://godotengine.org/asset-library/asset/2696)
+
 ## [Dot Hop](https://github.com/russmatney/dothop)
 
 <a href="https://github.com/russmatney/dothop">
@@ -93,12 +119,16 @@ eye-fatigue and debugging.
 
 Dot Hop is a grid-based puzzle game. It started as a PuzzleScript jam game, but
 I've reimplemented it in Dino to add several themes, more puzzles, and
-friendlier UX.
+more game-feel.
 
-[Wishlist Dot Hop on steam](https://store.steampowered.com/app/2779710/Dot_Hop/)!
+Lately I'm pushing toward a 2.0 version, with new mechanics, many more puzzles,
+a puzzle generator, and a mobile-friendly UX. It's available in beta on Android
+and iOS, lmk if you want to join!
 
-I'm focusing on Dot Hop lately to get my first Steam launch done with a
-reasonably scoped game. Wish me luck!
+- [All-The-Places you can find Dot Hop](https://russmatney.github.io/dothop/#/all-the-places)
+- [Steam](https://store.steampowered.com/app/2779710/Dot_Hop/)
+- [Repo](https://github.com/russmatney/dothop)
+- [Itch](https://russmatney.itch.io/dot-hop)
 
 ## [Dino](https://github.com/russmatney/dino)
 
@@ -111,7 +141,7 @@ reasonably scoped game. Wish me luck!
 I'm driving towards a full Dino Steam release - [wishlist Dino on steam](https://store.steampowered.com/app/2589550/Dino/)!
 
 Dino started as a Godot monorepo and sandbox for game jams and writing my own addons,
-but it is transforming into a genre-mashup of sorts.
+but has transformed into a genre-mashup of sorts. More to come on this later!
 
 ## [Clawe](https://github.com/russmatney/clawe)
 

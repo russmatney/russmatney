@@ -193,15 +193,15 @@ Last 6 months:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2025 - To: 23 September 2025
+From: 27 March 2025 - To: 25 September 2025
 
-Other               191 hrs 47 mins ███████▒░░░░░░░░░░░░░░░░░   29.03 %
-Org                 172 hrs 49 mins ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
-GDScript3           56 hrs 29 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-GDScript            53 hrs 44 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-C#                  48 hrs 48 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Markdown            36 hrs 41 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-Git                 24 hrs 35 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Other               197 hrs 21 mins ███████▒░░░░░░░░░░░░░░░░░   29.31 %
+Org                 173 hrs 44 mins ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+GDScript3           56 hrs 59 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+GDScript            53 hrs 44 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+C#                  53 hrs 13 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Markdown            36 hrs 56 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+Git                 25 hrs 22 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->

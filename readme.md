@@ -193,15 +193,15 @@ Last 6 months:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2025 - To: 22 February 2026
+From: 25 August 2025 - To: 23 February 2026
 
-Other               566 hrs 5 mins        █████████████▓░░░░░░░░░░░   54.85 %
-Markdown            184 hrs 57 mins       ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
-Org                 74 hrs 52 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Other               565 hrs 40 mins       █████████████▓░░░░░░░░░░░   54.83 %
+Markdown            184 hrs 45 mins       ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
+Org                 74 hrs 18 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
 C#                  74 hrs 11 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Git                 24 hrs 6 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Git                 24 hrs 19 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 TypeScript          16 hrs 24 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Clojure             13 hrs 11 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Clojure             13 hrs 48 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->

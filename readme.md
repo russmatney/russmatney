@@ -193,15 +193,15 @@ Last 6 months:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 25 June 2026
+From: 26 December 2025 - To: 26 June 2026
 
-Other                      651 hrs 21 mins       ████████████████▒░░░░░░░░   65.32 %
-Markdown                   200 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+Other                      651 hrs 21 mins       ████████████████▒░░░░░░░░   65.26 %
+Markdown                   200 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.13 %
 Org                        37 hrs 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 TypeScript                 21 hrs 8 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Io                         15 hrs 13 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Git                        13 hrs 36 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-JSON                       7 hrs 20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Io                         15 hrs 13 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Git                        13 hrs 51 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Text                       7 hrs 53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->

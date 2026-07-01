@@ -193,7 +193,7 @@ Last 6 months:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 28 June 2026
+From: 29 December 2025 - To: 29 June 2026
 
 Other                      651 hrs 21 mins       ████████████████▒░░░░░░░░   65.27 %
 Markdown                   200 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 %

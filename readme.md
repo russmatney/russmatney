@@ -193,7 +193,7 @@ Last 6 months:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2026 - To: 02 August 2026
+From: 02 February 2026 - To: 03 August 2026
 
 Other                      710 hrs 43 mins       ████████████████▓░░░░░░░░   66.79 %
 Markdown                   217 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.39 %
